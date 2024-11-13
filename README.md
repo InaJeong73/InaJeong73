@@ -1,11 +1,12 @@
 ### Hi Welcome, i'm INA JEONG 👋
 
-#### Backend Developer 벡엔드 개발자
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+#### 벡엔드 개발자 Backend Developer 
 
 안녕하세요😊 주니어 개발자 정인아입니다.
 발견하고, 탐구하고, 창조하여 새로운 디지털 가치로 연결하는 개발자가 되고자 노력합니다.
+
+Developers who create beneficial social values   
+A developer who thinks, researches, creates, and connects to practical realization by web
 
 ---
 
