@@ -28,14 +28,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 ---
 
-#### 🐱 About Me
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongina89@gmail.com)](jeongina89@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/7a8584451e8441828f1c7cfd005c53e1?v=e0f4765fb0984d61bcd08acad00bf63e)](https://www.notion.so/7a8584451e8441828f1c7cfd005c53e1?v=e0f4765fb0984d61bcd08acad00bf63e)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ina_7/posts)](https://velog.io/@ina_7/posts)
-
----
-
 #### 🏅 Algorithm Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shlovejo2)](https://solved.ac/shlovejo2/)  
