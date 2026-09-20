@@ -1,10 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Ina Jeong, Backend Developer. Build, measure, improve.">
-<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" opacity=".09"/></pattern></defs>
-<rect width="1200" height="310" rx="20" fill="#101b27"/><rect width="1200" height="310" rx="20" fill="url(#grid)"/>
-<path d="M876 72h150v70h-80v90h180" fill="none" stroke="#64e6b7" stroke-width="2" opacity=".5"/>
-<circle cx="876" cy="72" r="6" fill="#64e6b7"/><circle cx="946" cy="142" r="6" fill="#64e6b7"/><circle cx="1126" cy="232" r="6" fill="#64e6b7"/>
-<text x="60" y="65" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#64e6b7">BACKEND DEVELOPER</text>
-<text x="56" y="155" font-family="Arial,sans-serif" font-weight="700" font-size="70" fill="#f4f7fa">Ina Jeong.</text>
-<text x="60" y="212" font-family="Arial,sans-serif" font-size="25" fill="#c2cdd9">Build. Measure. Improve.</text>
-<text x="60" y="266" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#8c9eb0">JAVA / SPRING / DATA / AI SERVICES</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Ina!</title>
+  <desc id="desc">Backend Developer. Java, Spring and AI Services.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fce7f3"/><stop offset=".5" stop-color="#ede9fe"/><stop offset="1" stop-color="#dbeafe"/></linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="18" fill="url(#bg)"/>
+  <circle cx="1080" cy="14" r="120" fill="#fff" opacity=".24"/>
+  <circle cx="92" cy="208" r="125" fill="#fff" opacity=".27"/>
+  <g fill="none" stroke="#a78bfa" stroke-width="2" opacity=".65">
+    <path d="M157 49v18m-9-9h18M1030 123v20m-10-10h20M981 45v12m-6-6h12"/>
+    <circle cx="218" cy="137" r="5"/><circle cx="1094" cy="77" r="4"/>
+  </g>
+  <text x="600" y="85" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="47" font-weight="700" fill="#44336b">Hi, I'm Ina!</text>
+  <text x="600" y="121" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="17" fill="#695680">BACKEND DEVELOPER</text>
+  <text x="600" y="153" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="13" letter-spacing="2" fill="#796d90">JAVA · SPRING · AI SERVICES</text>
 </svg>
