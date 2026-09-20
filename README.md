@@ -6,11 +6,11 @@
   <a href="https://solved.ac/shlovejo2/"><img src="https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square&amp;logo=solvedac&amp;logoColor=white" alt="solved.ac" /></a>
 </p>
 
-### 👋 안녕하세요, 백엔드 개발자 정인아입니다.
+### 안녕하세요, 백엔드 개발자 정인아입니다.
 
-☕ **Java와 Spring**으로 서비스를 만들고, 데이터 조회·외부 API 연동·배포 환경의 문제를 개선합니다.<br />
-🌱 **SSAFY 16기**에서 학습하며, AI를 활용한 서비스와 검증 가능한 실험에 관심을 두고 있습니다.<br />
-🛠️ 요즘은 **PORI·Dear.K**의 개인 개발 환경을 정리하고 후속 개선을 준비하고 있습니다.
+좋은 결과만큼, 문제를 풀어가는 과정에서 배우는 것을 소중하게 생각합니다.<br />
+확신이 없는 순간에도 시도를 이어가며, 어제보다 조금 더 나은 개발자가 되고자 합니다.<br />
+팀과 함께 고민하고 배우며 더 나은 해결책을 찾아가고 싶습니다.
 
 ## 💪 Skills
 
